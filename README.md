@@ -1,13 +1,15 @@
 ![CF](http://i.imgur.com/7v5ASc8.png) LAB
 =================================================
 
-## Project Name
+## Lab 06 - Event Driven Applications
 
-### Author: Student/Group Name
+### Author: Michael George, Code 401d28
 
 ### Links and Resources
-* [repo](http://xyz.com)
-* [travis](http://xyz.com)
+[![Build Status](https://travis-ci.com/michaelageorge/06-event-driven-apps.svg?branch=master)](https://travis-ci.com/michaelageorge/06-event-driven-apps)
+
+* [repo](https://github.com/michaelageorge/06-event-driven-apps)
+* [travis](https://travis-ci.com/michaelageorge/06-event-driven-apps)
 * [back-end](http://xyz.com)
 * [front-end](http://xyz.com)
 
