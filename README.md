@@ -42,3 +42,6 @@ Usage Notes or examples
 
 #### UML
 Link to an image of the UML for your application and response to events
+
+### Citations and Help
+John's code review really helped me get through this lab. I basically did the lab based on his code review. Pretty much all but the tests.
